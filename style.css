@@ -1,0 +1,32 @@
+
+    body{
+line-height:1.6;    
+}
+header{
+background-color:#333;
+color:#777;
+text-align:center;
+padding:1 rem;
+display:Flex;
+align-items:center;
+}
+.logo img{
+    max-width:100px;
+    height:auto;
+}
+       header-content{
+        text-align:left;
+       }
+       nav{
+        background-color:#444;
+       }
+       .menu{
+     list-style:none;
+     display:Flex;
+     justify-content:center;
+     padding:1 rem 0;
+}
+.menu li{
+    margin:0.1 rem;
+    position:relative;
+}
